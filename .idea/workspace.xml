@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd2aeb4f-d4c6-4146-b1fc-d32f9dff1460" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/za/ac/cput/ADP372s_Assignment1_2021/TestDrivenDevelopment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/za/ac/cput/ADP372s_Assignment1_2021/TestDrivenDevelopmentTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="fd2aeb4f-d4c6-4146-b1fc-d32f9dff1460" name="Changes" comment="ADP372s_Assignment1_2021" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,6 +154,14 @@
       <option name="presentableId" value="Default" />
       <updated>1695738477209</updated>
     </task>
+    <task id="LOCAL-00001" summary="ADP372s_Assignment1_2021">
+      <created>1695824075019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695824075020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,5 +174,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADP372s_Assignment1_2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADP372s_Assignment1_2021" />
   </component>
 </project>
